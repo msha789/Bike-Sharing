@@ -28,6 +28,6 @@ The purpose of this project is to show investors insights from the bike-sharing 
 ![Pic]()
 
 ## Summary 
-[link to dashboard](https://public.tableau.com/app/profile/maha.shah7782/viz/BikesharingSummary/BikesharingSummary?publish=yes)
+View the full analysis on tableau story here : [Link to Bike-Sharing Summary](https://public.tableau.com/app/profile/maha.shah7782/viz/BikesharingSummary/BikesharingSummary?publish=yes)
 
 For further analysis more visualizations can be created to depict rides used per user type in locations. Some analysis on what kind of demogrpahic makeup or geographical characteristics go along with the type of users would be helpful for relocation of this model to predict success in certain areas versus others. Furthermore, more targetted analysis for gender specific data, such as only male-focused vsiuals might give more insight for targeted advertising to not only relocate and make a successful model in the new locaiton but also help further profitize the current New York model. 
